@@ -1,2 +1,3 @@
 file3, added by other usesr
 some changes
+next changes
